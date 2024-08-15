@@ -6,3 +6,7 @@ url: https://CleanDiffuserDocs.github.io/docs/
 
 aux_links:
   Template Repository: https://github.com/just-the-docs/just-the-docs-template
+
+color_scheme: dark
+compress_html:
+  blanklines: true
